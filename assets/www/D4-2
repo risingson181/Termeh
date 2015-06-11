@@ -1,0 +1,55 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<title>3</title>
+<style>
+<!--
+span.GramE
+	{}
+ div.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	margin-left:0cm; margin-right:0cm; margin-top:0cm}
+span.SpellE
+	{}
+-->
+</style>
+</head>
+
+<body>
+<p id="00"><a name="0"></a></p>
+<p align="left">&nbsp;</p>
+<p align="center"><strong>&nbsp;3.2. Теорема о движении центра масс  системы</strong></p>
+<p><strong>Содержание 
+  </strong> </p>
+<p><strong>&nbsp;&nbsp;&nbsp; <a href="#1">Центр масс системы материальных точек</a></strong>. </p>
+<p><strong>&nbsp;&nbsp;&nbsp; <a href="#2">Теорема о движении центра масс системы (ТДЦМ)</a>.</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp; <a href="#3">Следствия из теоремы о движении центра масс 
+системы (законы сохранения)</a></strong><a href="#3">.</a></p>
+<p> <strong>&nbsp;&nbsp;&nbsp; <a href="#4">Качественные примеры</a>:</strong></p>
+<p><strong>&nbsp;&nbsp;&nbsp; <a href="#5">Расчетный пример – лодка.</a> 
+(рисунок с логической анимацией)</strong></p>
+<p>&nbsp;</p>
+<p><b><a href="index2.html">&lt;НА ГЛАВНУЮ&gt;</a></b></p>
+<p><a name="1"></a></p>
+<hr size="20" color="#0819D4">
+<p><a href="#0">Наверх</a></p>
+<p align="center"><strong>            Центр масс  системы материальных точек</strong>. </p>
+<strong>
+<p> Для описания движения системы в целом вводится геометрическая точка, называемой
+<strong>центром масс</strong>, радиус-вектор которой определяется выражением<br>
+<img border="0" src="Д4/3.2-1.png" width="216" height="197" align="left"></p>
+<p>
+<img border="0" src="Д4/3.2-2.png" width="104" height="51"><br>
+<img border="0" src="Д4/3.2-3.png" width="91" height="32"><br>
+где <em>M</em> – масса всей системы:<br>
+<br>
+<br>
+<br>
+</p>
+<p>Или в проекциях на координатные оси:<br>
+<img border="0" src="Д4/3.2-4.png" width="374" height="51"><br clear="all">
+</p>
